@@ -46,6 +46,6 @@ Scaling the sample doesn't affect Xi's ability to 'explain' Y, so the r-squared 
 
 t-value will be sqrt(2) times bigger which is pretty obvious from the fomula of t-value: 
 
-![t-value](pictures/t_test.png)  
+![t-value](picture/t_test.png)  
 
 
