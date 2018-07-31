@@ -21,8 +21,28 @@ Lasso vs. Ridge comparison:
 Check out this wonderful post: [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)  
 
 
+### Derive the ordinary least square regression formula
+[Derivation](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
 
+### How to deal with overfitting?
+1. Train with more data  
+2. Cross validation  
+3. Do feature selection  
+4. Use early stopping if possible  
+5. Regulization  
+6. Ensembling  
+Reference: [overfitting in machine learning algorithms](https://elitedatascience.com/overfitting-in-machine-learning#how-to-prevent)
 
 
-### What is Marketing Mix Model (MMM)?
+### If I double every sample observation in a linear regression model, how will the coefficients, r-squared value and t-value change?
+
+Coefficients will be the same (obviously).
+
+Let's consider what is r-squared value?
+[Here](https://onlinecourses.science.psu.edu/stat501/node/255/)'s a detaild introduction to r-squared.
+> "r2 ×100 percent of the variation in y is 'explained by' the variation in predictor x."
+Scaling the sample doesn't affect Xi's ability to 'explain' Y, so the r-squared should remain the same.
+
+t-value will be sqrt(2) times bigger which is pretty obvious from the fomula of t-value:  
+![t-value](pictures/t_value.png)
