@@ -6,12 +6,17 @@
 - Lasso formula:  
 ![LASSO formula](http://www.chioka.in/wp-content/uploads/2013/12/least_squares_l11.png) 
 ![](picture/lasso_regulization.png)  
-<hr>
+<hr>  
+
 Ridge formula:  
+
 ![Ridge formula](http://www.chioka.in/wp-content/uploads/2013/12/least_squares_l2.png)   
 Lasso vs. Ridge comparison:  
-![](http://www.chioka.in/wp-content/uploads/2013/12/L1-vs-L2-properties-regularization.png)  
-![](picture/ridge_regulization.png)   
+
+![Comparison](http://www.chioka.in/wp-content/uploads/2013/12/L1-vs-L2-properties-regularization.png)   
+
+![Ridge picture](picture/ridge_regulization.png)       
+
 <hr>
 Check out this wonderful post: [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)  
 
