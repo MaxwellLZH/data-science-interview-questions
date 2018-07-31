@@ -44,5 +44,8 @@ Let's consider what is r-squared value?
 > "r2 ×100 percent of the variation in y is 'explained by' the variation in predictor x."
 Scaling the sample doesn't affect Xi's ability to 'explain' Y, so the r-squared should remain the same.
 
-t-value will be sqrt(2) times bigger which is pretty obvious from the fomula of t-value:  
-![t-value](pictures/t_value.png)
+t-value will be sqrt(2) times bigger which is pretty obvious from the fomula of t-value: 
+
+![t-value](pictures/t_test.png)  
+
+
