@@ -49,3 +49,11 @@ t-value will be sqrt(2) times bigger which is pretty obvious from the fomula of 
 ![t-value](picture/t_test.png)  
 
 
+### What’s the disadvantages of linear regression?
+1. Linear regression is sensitive to outliers
+2. Linear regression is only capable of describing linear relationship, so non-linear relationship needs to be transformed before putting into the model.
+3. Linear regression assumes data are independent.
+
+### Explain what precision and recall are. How do they relate to the ROC curve?
+
+
